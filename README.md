@@ -14,6 +14,10 @@
   Jak udělat aby nějaký objekt pulsoval.
 
   **Scrennshoty**
+  Můj celý solarní systém.
   ![{DEE620B9-E451-4D6B-805B-3173B6316C3F}](https://github.com/user-attachments/assets/cb950409-1413-4f30-a4b6-ebddfc5cde94)
+  Měsíc který obíhá planetu.
+  ![{5403C7CA-2E3D-41F8-A6C9-96ECDA289C58}](https://github.com/user-attachments/assets/443a51a5-6f4f-4c7f-ad92-04dcff263c81)
+
 
 
